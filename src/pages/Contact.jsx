@@ -51,14 +51,16 @@ const Contact = () => {
 
 
             setTimeout(() => {
-                hideAlert(false);
+               
+                e.preventDefault(true);
                 setcurrentAnimation('idle');
                 setform({
                     name: '',
-                    emal: '',
+                    email: '',
                     message: '',
                 });
-            }, [3000]);
+                
+            }, [1000]);
         }, 
         (error) => {
             setIsloading(false);
