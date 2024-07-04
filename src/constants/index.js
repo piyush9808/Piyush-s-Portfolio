@@ -201,13 +201,13 @@ export const projects = [
        
         link: 'https://gears-p3eqk4il3-piyush-kumars-projects-06e6eae2.vercel.app/',
     },
-//     {
-//         iconUrl: car,
-//         theme: 'btn-back-blue',
-//         name: 'Car Finding App',
-//         description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-//         link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
-//     },
+    {
+        iconUrl: summiz,
+        theme: 'btn-back-blue',
+        name: 'BrainAI-AI Services Landing page',
+        description: 'Designed and built a website for ai services company with parallax effect and dynamic effects of components and elements',
+        link: 'https://brainai-iota.vercel.app/',
+    },
 //     {
 //         iconUrl: snapgram,
 //         theme: 'btn-back-pink',
