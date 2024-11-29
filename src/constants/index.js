@@ -196,25 +196,25 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Gears',
-        description: 'Developed a dynamic website using TypeScript, Next.js, Tailwind CSS, and JavaScript,the application showcases detailed information about cars, incorporating a custom pricing algorithm that calculates daily rental costs based on factors like car type, age, mileage, and fuel efficiency.The user-friendly interface, designed with Next.js and Tailwind CSS, ensures seamless experience The project optimization with Next.js guarantees fast loading times. This Gears Project stands as a testament to my proficiency in modern web development, combining technologies to deliver a responsive and feature-rich application',
+        name: 'ChainHouse:Blockchain Land Registry Marketplace',
+        description: 'Developed a robust, Ethereum-based land registration system that facilitates secure land transactions and ownership transfers while optimizing efficiency and transparency through smart contract technology.',
        
-        link: 'https://gears-p3eqk4il3-piyush-kumars-projects-06e6eae2.vercel.app/',
+        link: 'https://chainhouse-steel.vercel.app/',
     },
     {
         iconUrl: summiz,
         theme: 'btn-back-blue',
         name: 'BrainAI-AI Services Landing page',
-        description: 'Designed and built a website for ai services company with parallax effect and dynamic effects of components and elements',
+        description: 'Designed and built a website for ai services company with parallax effect and dynamic effects of components and elements.',
         link: 'https://brainai-iota.vercel.app/',
     },
-//     {
-//         iconUrl: snapgram,
-//         theme: 'btn-back-pink',
-//         name: 'Full Stack Instagram Clone',
-//         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-//         link: 'https://github.com/adrianhajdin/social_media_app',
-//     },
+    {
+        iconUrl: snapgram,
+        theme: 'btn-back-pink',
+        name: 'QuestionAI',
+        description: 'Create mock interview sessions tailored to your professional experience,get instant feedback on your answers along with correct responses',
+        link: 'https://questionai-one.vercel.app/sign-in?redirect_url=https%3A%2F%2Fquestionai-one.vercel.app%2F',
+    },
 //     {
 //         iconUrl: estate,
 //         theme: 'btn-back-black',
