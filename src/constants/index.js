@@ -128,7 +128,7 @@ export const experiences = [
     {
         title: "Full Stack Developer Intern",
         company_name: "Metaverse Ventures Private Limited",
-        icon: mv,
+        icon: kaash,
         iconBg: "#fbc3bc",
         date: "March 2024 - April 2024",
         points: [
