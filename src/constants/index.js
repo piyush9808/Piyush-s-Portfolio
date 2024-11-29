@@ -189,7 +189,7 @@ export const projects = [
         iconUrl: pricewise,
         theme: 'btn-back-red',
         name: 'CryptoCurrency Price Screener',
-        description:  'Cryptomart, a leading cryptocurrency project, is powered by React JS (CRA) for efficient development and Tailwind CSS for a user-friendly, responsive interface. Integrated Recharts provides real-time data visualization, enhancing the user experience. The React Context API ensures seamless state management. Key features include real-time price tracking, accessible interface, and reliable data from CoinGecko Cryptocurrency APIs. Cryptomart is a dynamic, user-centric solution, uniting technology and design for comprehensive cryptocurrency tracking. The intuitive interface, aided by Tailwind CSS, and robust state management through React Context API create a compelling user experience. Recharts and CoinGecko APIs further solidify Cryptomart standing in the evolving cryptocurrency landscape.',
+        description:  'Cryptomart, a leading cryptocurrency project, is powered by React JS (CRA) for efficient development and Tailwind CSS for a user-friendly, responsive interface. Cryptomart is a dynamic, user-centric solution, uniting technology and design for comprehensive cryptocurrency tracking. Recharts and CoinGecko APIs further solidify Cryptomart standing in the evolving cryptocurrency landscape.',
        
         link: 'https://cypto-mart.vercel.app/',
     },
