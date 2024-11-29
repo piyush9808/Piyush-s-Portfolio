@@ -132,10 +132,10 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "March 2024 - April 2024",
         points: [
-          "• Redesign User Interface: Redesigned the user interface for enhanced front-end experience, improving usability and visual appeal.",
-          "• Established Direct OTC Trading Mechanism: Established a direct mechanism for OTC trading transactions,ensuring secure and transparent trades between parties.",
-          "• Created Integrated Marketplaces: Created integrated marketplaces encompassing DEX, cross-chain OTC, and direct OTC functionalities, providing a comprehensive trading solution.",
-          "• Website Frontend Development: Developed Frontend of Website and implemented all the functions to fetch datafrom backend and to show all the transactions and developed overall ui of the website."
+          " Redesign User Interface: Redesigned the user interface for enhanced front-end experience, improving usability and visual appeal.",
+          " Established Direct OTC Trading Mechanism: Established a direct mechanism for OTC trading transactions,ensuring secure and transparent trades between parties.",
+          " Created Integrated Marketplaces: Created integrated marketplaces encompassing DEX, cross-chain OTC, and direct OTC functionalities, providing a comprehensive trading solution.",
+          " Website Frontend Development: Developed Frontend of Website and implemented all the functions to fetch datafrom backend and to show all the transactions and developed overall ui of the website."
         ],
     },
     // {
